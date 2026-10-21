@@ -1,6 +1,7 @@
 # Simple Webscraper 
 
 Author: Rylee Hilde
+
 Semester: Spring 2026
 
 ## Note:
